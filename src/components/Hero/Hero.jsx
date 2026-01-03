@@ -1,4 +1,5 @@
 import './Hero.css';
+import profileImg from '../../assets/profile.jpg';
 
 const Hero = () => {
   return (
@@ -20,7 +21,7 @@ const Hero = () => {
           <div className="hero-visual">
             <div className="circle-blur"></div>
             <img 
-              src="/src/assets/profile.jpg" 
+              src={profileImg} 
               alt="Shivam Upadhyay" 
               className="profile-img"
             />

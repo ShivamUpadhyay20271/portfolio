@@ -7,13 +7,13 @@ const Resume = () => {
         <h2 className="section-title">My Resume</h2>
         <div className="resume-content">
           <div className="resume-preview-container">
-            <img src="/src/assets/resume.jpg" alt="Shivam Upadhyay Resume" className="resume-preview" />
+            <img src="/resume.jpg" alt="Shivam Upadhyay Resume" className="resume-preview" />
           </div>
           <div className="resume-actions">
-            <a href="/src/assets/resume.jpg" target="_blank" rel="noopener noreferrer" className="btn btn-outline resume-btn">
+            <a href="/resume.jpg" target="_blank" rel="noopener noreferrer" className="btn btn-outline resume-btn">
               View Full Size
             </a>
-            <a href="/src/assets/resume.jpg" download="Shivam_Upadhyay_Resume.jpg" className="btn resume-btn">
+            <a href="/resume.jpg" download="Shivam_Upadhyay_Resume.jpg" className="btn resume-btn">
               Download Resume
             </a>
           </div>
