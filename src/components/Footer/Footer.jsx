@@ -7,7 +7,7 @@ const Footer = () => {
         fontSize: '0.9rem',
         borderTop: '1px solid rgba(255,255,255,0.05)'
       }}>
-        <p>Built by Shivam Upadhyay</p>
+        <p>Built By Shivam Upadhyay@2026</p>
       </footer>
     );
   };
